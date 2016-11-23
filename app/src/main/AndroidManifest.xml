@@ -16,7 +16,12 @@
             </intent-filter>
         </activity>
         <activity android:name=".HowToActivity" />
-        <activity android:name=".PlayActivity"></activity>
+        <activity android:name=".PlayActivity" />
+        <activity android:name=".Play2Activity" />
+        <activity android:name=".Play3Activity" />
+        <activity android:name=".Play4Activity" />
+        <activity android:name=".Play5Activity" />
+        <activity android:name=".Play6Activity"></activity>
     </application>
 
 </manifest>
